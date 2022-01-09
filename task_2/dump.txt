@@ -1,0 +1,4 @@
+mysql> create database sample;
+
+cmd>mysqldump example > example.sql
+cmd>mysqldump sample < example.sql
